@@ -39,7 +39,7 @@ dependencies {
     compile 'com.google.dagger:dagger-android:2.11-rc2'
 
     //Network
-    compile 'com.squareup.okhttp3:okhttp:3.5.0'
+    compile 'com.squareup.okhttp3:okhttp:3.7.0'
     compile 'com.squareup.okhttp3:logging-interceptor:3.5.0'
     compile 'com.squareup.retrofit2:retrofit:2.1.0'
     compile 'com.squareup.retrofit2:retrofit-converters:2.1.0'
